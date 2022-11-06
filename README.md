@@ -1,3 +1,4 @@
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamato0211&layout=compact&theme=tokyonight&hide=html,css,powershell,scss)](https://github.com/yamato0211/)[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=yamato0211&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/yamato0211/)
-
-
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamato0211&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yamato0211&theme=onedark&show_icons=ture" />
+</p>
