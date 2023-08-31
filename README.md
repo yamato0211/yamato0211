@@ -6,8 +6,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=yamato0211&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2 align="left">My Skills</h2>
+## Skills
 ### Frontend
-
-![My Skills](https://skillicons.dev/icons?i=react,ts,firebase)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,firebase,supabase)
+### Backend
+![My Skills](https://skillicons.dev/icons?i=go,fastapi,nestjs,docker,mysql,postgres,redis,nginx,graphql)
+### Other
+![My Skills](https://skillicons.dev/icons?i=github,gihubactions,linux,gcp,aws,azure)
 
