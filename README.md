@@ -7,5 +7,7 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="left">My Skills</h2>
-<h3 align="left">Frontend</h3>
+### Frontend
+
 ![My Skills](https://skillicons.dev/icons?i=react,ts,firebase)
+
