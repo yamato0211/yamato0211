@@ -8,4 +8,4 @@
 
 <h2 align="left">My Skills</h2>
 <h3 align="left">Frontend</h3>
-[![Frontend](https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,supabase)](https://skillicons.dev)
+[Frontend](https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,supabase)
