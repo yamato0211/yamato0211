@@ -12,5 +12,5 @@
 ### Backend
 ![My Skills](https://skillicons.dev/icons?i=go,fastapi,nestjs,docker,mysql,postgres,redis,nginx,graphql)
 ### Other
-![My Skills](https://skillicons.dev/icons?i=github,gihubactions,linux,gcp,aws,azure)
+![My Skills](https://skillicons.dev/icons?i=github,githubactions,linux,gcp,aws,azure)
 
